@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../multithreading"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../strings"
+		}
+	],
+	"settings": {}
+}
